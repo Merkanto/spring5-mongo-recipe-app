@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app)
+[![CircleCI](https://circleci.com/gh/Merkanto/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/Merkanto/spring5-mongo-recipe-app)
 
 [![codecov](https://codecov.io/gh/Merkanto/spring5-mongo-recipe-app/branch/main/graph/badge.svg?token=QW37SWwCPt)](https://codecov.io/gh/Merkanto/spring5-mongo-recipe-app)
 
